@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>First Post</title>
       <link>/posts/first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/first-post/</guid>
-      <description>&lt;h3 id=&#34;business-name&#34;&gt;Business Name:&lt;/h3&gt;
+      <description>&lt;p&gt;Understanding the functional setup of a business&lt;/p&gt;
+&lt;h3 id=&#34;business-name&#34;&gt;Business Name:&lt;/h3&gt;
 &lt;p&gt;Revive Clothing&lt;/p&gt;
 &lt;h3 id=&#34;type-of-business&#34;&gt;Type of Business:&lt;/h3&gt;
 &lt;p&gt;Eco-friendly clothing business&lt;/p&gt;
@@ -21,10 +22,9 @@
 &lt;h3 id=&#34;business-structure&#34;&gt;Business Structure:&lt;/h3&gt;
 &lt;p&gt;A partnership is a business structure where two or more people agree to share ownership and responsibilities of the business. Both partners are personally liable for the debts
 and liabilities of the business, and must register the business name with ASIC and lodge a partnership agreement
-with them.&lt;/p&gt;
-&lt;h3 id=&#34;business-registration&#34;&gt;Business Registration:&lt;/h3&gt;
-&lt;p&gt;You will need to register your business name with ASIC and obtain an Australian Business Number (ABN). You will also need to register for Goods and Services Tax (GST) if your turnover exceeds $75,000 per year.&lt;/p&gt;</description>
-      <content>&lt;h3 id=&#34;business-name&#34;&gt;Business Name:&lt;/h3&gt;
+with them.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Understanding the functional setup of a business&lt;/p&gt;
+&lt;h3 id=&#34;business-name&#34;&gt;Business Name:&lt;/h3&gt;
 &lt;p&gt;Revive Clothing&lt;/p&gt;
 &lt;h3 id=&#34;type-of-business&#34;&gt;Type of Business:&lt;/h3&gt;
 &lt;p&gt;Eco-friendly clothing business&lt;/p&gt;

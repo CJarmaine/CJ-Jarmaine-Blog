@@ -1,10 +1,16 @@
+---
+title: First Post
+Date: 10/12/2024
+---
+Understanding the functional setup of a business
+
 ### Business Name: 
 Revive Clothing
 ### Type of Business: 
 Eco-friendly clothing business
 ### Sole Trader/Partnership: 
 Partnership (registered under two names)
-### Business Structure: 
+### Business Structure:
 A partnership is a business structure where two or more people agree to share ownership and responsibilities of the business. Both partners are personally liable for the debts
 and liabilities of the business, and must register the business name with ASIC and lodge a partnership agreement
 with them.

@@ -8,12 +8,72 @@
     <language>en</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/posts/math-assignment/</link>
+      <link>/posts/ode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/math-assignment/</guid>
-      <description>&lt;p&gt;The following contains a math assignment![[Assignment 1 - Projectile_Motion.pdf]]&lt;/p&gt;</description>
-      <content>&lt;p&gt;The following contains a math assignment![[Assignment 1 - Projectile_Motion.pdf]]&lt;/p&gt;
+      <guid>/posts/ode/</guid>
+      <description>&lt;p&gt;Rearange for x and y terms
+intergrate&lt;/p&gt;
+&lt;p&gt;Exam 3 question 1)
+Solve separable differential equation $y&amp;rsquo;=y^2cos(x)$ , with the boundary condition $y(0)=1$.&lt;/p&gt;
+&lt;p&gt;$$y&amp;rsquo;=y^2cos(x)$$
+$$\frac{dy}{y^2}=cos(x)dx$$
+$$-\frac{1}{y}=sin(x)$$
+$$y=\frac{1}{c-sin(x)}$$
+solve for boundary $y(0)=1$
+$$1=\frac{1}{c-sin(0)}$$
+$$1=\frac{1}{c-0}$$
+$$c=1$$
+place into re-arranged
+$$y=\frac{1}{1-sin(x)}$$&lt;/p&gt;
+&lt;h2 id=&#34;question-b&#34;&gt;Question b)&lt;/h2&gt;
+&lt;p&gt;Solve the differential equation $\frac{dy}{dx}=2x+4y$ by first using a transformation to convert to a separable differential equation.&lt;/p&gt;
+&lt;h3 id=&#34;steps&#34;&gt;Steps&lt;/h3&gt;
+&lt;p&gt;Rearrange to form
+$$y&amp;rsquo;+p(x)y=Q(x)$$
+Then find integrating factor
+$$I(x)=e^{\int{P(x)dx}}$$
+Then rearrange to$$y=\frac{1}{I(x)}[\int{I(x)Q(x)dx+c}]$$
+Rearranging the question requires moving 4y to the other side
+$$y&amp;rsquo;-4y=2x$$
+Finding the integrating factor
+$$I(x)=e^{\int{-4xdx}}$$$$I(x)=e^{-4x}$$
+Rearrange $$y=\frac{1}{e^{-4x}}[\int{e^{-4x}\times2xdx}+c]$$
+$$y=\frac{1}{e^{-4x}}[\frac{1}{8}e^{-4x}(4x+1)+c$$&lt;/p&gt;</description>
+      <content>&lt;p&gt;Rearange for x and y terms
+intergrate&lt;/p&gt;
+&lt;p&gt;Exam 3 question 1)
+Solve separable differential equation $y&amp;rsquo;=y^2cos(x)$ , with the boundary condition $y(0)=1$.&lt;/p&gt;
+&lt;p&gt;$$y&amp;rsquo;=y^2cos(x)$$
+$$\frac{dy}{y^2}=cos(x)dx$$
+$$-\frac{1}{y}=sin(x)$$
+$$y=\frac{1}{c-sin(x)}$$
+solve for boundary $y(0)=1$
+$$1=\frac{1}{c-sin(0)}$$
+$$1=\frac{1}{c-0}$$
+$$c=1$$
+place into re-arranged
+$$y=\frac{1}{1-sin(x)}$$&lt;/p&gt;
+&lt;h2 id=&#34;question-b&#34;&gt;Question b)&lt;/h2&gt;
+&lt;p&gt;Solve the differential equation $\frac{dy}{dx}=2x+4y$ by first using a transformation to convert to a separable differential equation.&lt;/p&gt;
+&lt;h3 id=&#34;steps&#34;&gt;Steps&lt;/h3&gt;
+&lt;p&gt;Rearrange to form
+$$y&amp;rsquo;+p(x)y=Q(x)$$
+Then find integrating factor
+$$I(x)=e^{\int{P(x)dx}}$$
+Then rearrange to$$y=\frac{1}{I(x)}[\int{I(x)Q(x)dx+c}]$$
+Rearranging the question requires moving 4y to the other side
+$$y&amp;rsquo;-4y=2x$$
+Finding the integrating factor
+$$I(x)=e^{\int{-4xdx}}$$$$I(x)=e^{-4x}$$
+Rearrange $$y=\frac{1}{e^{-4x}}[\int{e^{-4x}\times2xdx}+c]$$
+$$y=\frac{1}{e^{-4x}}[\frac{1}{8}e^{-4x}(4x+1)+c$$&lt;/p&gt;
+&lt;h2 id=&#34;question-2&#34;&gt;Question 2&lt;/h2&gt;
+&lt;p&gt;Solve the boundary value problem $3x^2e^ydx+x^3e^ydy=0, \quad y(2)=0$ by recognizing it as an exact differential equation, and using the technique of exact DEs.&lt;/p&gt;
+&lt;p&gt;$$3x^2e^ydx+x^3e^ydy=0$$$$\frac{\partial M}{\partial y}=3x^2e^ydx\quad\frac{\partial N}{\partial x}=3x^2e^y$$
+$$\frac{\partial f}{\partial x}=3x^2e^y, \quad \frac{\partial f}{\partial y}=x^3e^ydy$$
+$$f(x,y)=x^3e^y+g(y)$$
+$$\frac{\partial f}{\partial y}=x^3e^y+g&amp;rsquo;(y)$$&lt;/p&gt;
 </content>
     </item>
     

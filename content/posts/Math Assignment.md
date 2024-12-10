@@ -1,1 +1,0 @@
-The following contains a math assignment![[Assignment 1 - Projectile_Motion.pdf]]

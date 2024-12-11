@@ -56,19 +56,19 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "CJ Jarmaine"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      subtitle = "The mindset and mess of CJ's mind"
+      owner = "CJ Jarmaine"
       keywords = ""
       copyright = ""
       menuMore = "Show more"
-      readMore = "Read more"
+      readMore = "Theres more"
       readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
+      newerPosts = "Young posts"
+      olderPosts = "Old posts"
+      missingContentMessage = "Ahh f*ck its gone"
       missingBackButtonLabel = "Back to home page"
       minuteReadingTime = "min read"
       words = "words"

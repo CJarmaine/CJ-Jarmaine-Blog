@@ -74,7 +74,7 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "CJ Jarmaine"
         logoHomeLink = "/"
 
       [languages.en.menu]
